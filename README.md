@@ -113,4 +113,4 @@ This tool **only computes hypothetical profits**. It does **not** provide tradin
 
 ---
 
-*Drop this into the root of your GitHub repo as `README.md` — it’s styled for a neon hacker‑terminal look and ready to roll.*
+
