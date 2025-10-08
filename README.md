@@ -13,7 +13,7 @@
 <p align="center">
   <img alt="BTC" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="64" style="margin-right:10px"/>
   <img alt="ETH" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="64" style="margin-right:10px"/>
-  <img alt="DOGE" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Dogecoin_Logo.png" width="68"/>
+  
 </p>
 
 ---
